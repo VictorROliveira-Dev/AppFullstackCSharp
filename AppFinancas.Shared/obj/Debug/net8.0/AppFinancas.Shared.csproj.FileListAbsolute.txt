@@ -1,0 +1,11 @@
+C:\Users\victo\source\repos\AppFinancas\AppFinancas.Shared\bin\Debug\net8.0\AppFinancas.Shared.deps.json
+C:\Users\victo\source\repos\AppFinancas\AppFinancas.Shared\bin\Debug\net8.0\AppFinancas.Shared.dll
+C:\Users\victo\source\repos\AppFinancas\AppFinancas.Shared\bin\Debug\net8.0\AppFinancas.Shared.pdb
+C:\Users\victo\source\repos\AppFinancas\AppFinancas.Shared\obj\Debug\net8.0\AppFinancas.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victo\source\repos\AppFinancas\AppFinancas.Shared\obj\Debug\net8.0\AppFinancas.Shared.AssemblyInfoInputs.cache
+C:\Users\victo\source\repos\AppFinancas\AppFinancas.Shared\obj\Debug\net8.0\AppFinancas.Shared.AssemblyInfo.cs
+C:\Users\victo\source\repos\AppFinancas\AppFinancas.Shared\obj\Debug\net8.0\AppFinancas.Shared.csproj.CoreCompileInputs.cache
+C:\Users\victo\source\repos\AppFinancas\AppFinancas.Shared\obj\Debug\net8.0\AppFinancas.Shared.dll
+C:\Users\victo\source\repos\AppFinancas\AppFinancas.Shared\obj\Debug\net8.0\refint\AppFinancas.Shared.dll
+C:\Users\victo\source\repos\AppFinancas\AppFinancas.Shared\obj\Debug\net8.0\AppFinancas.Shared.pdb
+C:\Users\victo\source\repos\AppFinancas\AppFinancas.Shared\obj\Debug\net8.0\ref\AppFinancas.Shared.dll

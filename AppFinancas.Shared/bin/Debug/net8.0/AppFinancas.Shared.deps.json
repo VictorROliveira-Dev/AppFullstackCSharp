@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AppFinancas.Shared/1.0.0": {
+        "runtime": {
+          "AppFinancas.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AppFinancas.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
