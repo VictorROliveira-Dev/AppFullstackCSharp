@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "S7NXLbbd1GKZJjnMk7Hbhfgnc2NabTZSTn/juZNU4nE=",
+  "Source": "AppFinancas.Api",
+  "BasePath": "_content/AppFinancas.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

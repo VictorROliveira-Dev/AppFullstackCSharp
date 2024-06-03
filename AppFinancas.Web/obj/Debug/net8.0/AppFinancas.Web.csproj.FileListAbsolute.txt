@@ -1042,3 +1042,4 @@ C:\Users\victo\source\repos\AppFinancas\AppFinancas.Web\obj\Debug\net8.0\AppFina
 C:\Users\victo\source\repos\AppFinancas\AppFinancas.Web\obj\Debug\net8.0\refint\AppFinancas.Web.dll
 C:\Users\victo\source\repos\AppFinancas\AppFinancas.Web\obj\Debug\net8.0\AppFinancas.Web.pdb
 C:\Users\victo\source\repos\AppFinancas\AppFinancas.Web\obj\Debug\net8.0\ref\AppFinancas.Web.dll
+C:\Users\victo\source\repos\AppFinancas\AppFinancas.Web\obj\Debug\net8.0\AppFinancas.Web.sourcelink.json

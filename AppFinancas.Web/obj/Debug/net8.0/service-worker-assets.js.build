@@ -37,12 +37,12 @@
       "url": "sample-data\/weather.json"
     },
     {
-      "hash": "sha256-MULNLe1ZhFmuXzWb5FFuOkFJS5cW\/beaiWK9eIeD69k=",
-      "url": "AppFinancas.Web.styles.css"
-    },
-    {
       "hash": "sha256-gvHfnndfEu1tRf0rFb5988rWq7ITIotOaE8+AMbKYbc=",
       "url": "_framework\/blazor.webassembly.js"
+    },
+    {
+      "hash": "sha256-MULNLe1ZhFmuXzWb5FFuOkFJS5cW\/beaiWK9eIeD69k=",
+      "url": "AppFinancas.Web.styles.css"
     },
     {
       "hash": "sha256-w5s\/dAqt94v\/nRfrBYI6V2v2cVs3QcwH9g67NuNDKI4=",
@@ -845,25 +845,25 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-sxSxojoJ1uY7xzJOeO97Iu6D+JilfdK0cXSyKcYSRjg=",
+      "hash": "sha256-cHIPkT57G1HLy4MxKRuKfj92aTHKwvyLVtSmqFrI09U=",
       "url": "_framework\/AppFinancas.Shared.wasm"
     },
     {
-      "hash": "sha256-c393lqjrnHFBaC4bwE5zrwLaMO1x0O73WPZqRFHdePw=",
+      "hash": "sha256-MCvz3uqZAnsCeBOb2bkHJVs+FIKAUAyqXhdCcGIBfAE=",
       "url": "_framework\/AppFinancas.Shared.pdb"
     },
     {
-      "hash": "sha256-o4sWvzmxw4sAmEGn6xJnJ6vaQAp8NOeUUG3rgUQ2r\/k=",
+      "hash": "sha256-56zgDxbBXf+tkni8dL2v7NTwK5yICkv2YtFr\/eQuIdA=",
       "url": "_framework\/AppFinancas.Web.wasm"
     },
     {
-      "hash": "sha256-TLvll8lXkwiflhev1gJhzBqg14zOW3U8yBUdj85l\/ys=",
+      "hash": "sha256-Fc46Sz52Vd0w8Ff9N9JHNFcGRrAH2nfagibm5K7EPL0=",
       "url": "_framework\/AppFinancas.Web.pdb"
     },
     {
-      "hash": "sha256-gRr42eParH7BSEN6C+ukZnn\/TXekLmx\/pcvw\/2QtROo=",
+      "hash": "sha256-nFKtqpjt6+ttXu3Bzx9JF9PdGV2PTdVqn\/X\/mTcZL7Q=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "1hLFaAYf"
+  "version": "8QWEMqy\/"
 };

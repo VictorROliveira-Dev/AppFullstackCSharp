@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\victo\\source\\repos\\AppFinancas\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6779A21-A4DB-4A72-A8DC-7B43A05E9730}|AppFinancas.Api\\AppFinancas.Api.csproj|c:\\users\\victo\\source\\repos\\appfinancas\\appfinancas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6779A21-A4DB-4A72-A8DC-7B43A05E9730}|AppFinancas.Api\\AppFinancas.Api.csproj|solutionrelative:appfinancas.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,6 +47,19 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\victo\\source\\repos\\AppFinancas\\AppFinancas.Api\\Program.cs",
+              "RelativeDocumentMoniker": "AppFinancas.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\victo\\source\\repos\\AppFinancas\\AppFinancas.Api\\Program.cs",
+              "RelativeToolTip": "AppFinancas.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:21:07.301Z",
+              "EditorCaption": ""
             }
           ]
         }

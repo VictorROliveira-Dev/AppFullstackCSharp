@@ -9,3 +9,4 @@ C:\Users\victo\source\repos\AppFinancas\AppFinancas.Shared\obj\Debug\net8.0\AppF
 C:\Users\victo\source\repos\AppFinancas\AppFinancas.Shared\obj\Debug\net8.0\refint\AppFinancas.Shared.dll
 C:\Users\victo\source\repos\AppFinancas\AppFinancas.Shared\obj\Debug\net8.0\AppFinancas.Shared.pdb
 C:\Users\victo\source\repos\AppFinancas\AppFinancas.Shared\obj\Debug\net8.0\ref\AppFinancas.Shared.dll
+C:\Users\victo\source\repos\AppFinancas\AppFinancas.Shared\obj\Debug\net8.0\AppFinancas.Shared.sourcelink.json
