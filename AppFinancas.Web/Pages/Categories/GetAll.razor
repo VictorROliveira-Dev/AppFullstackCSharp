@@ -1,0 +1,32 @@
+﻿@page "/categorias"
+@inherits GetAllCategoriesPage
+
+<MudText Class="mt-4 mb-4" Typo="Typo.h4">Categorias</MudText>
+<div class="d-flex justify-start">
+    <MudButton Variant="Variant.Filled"
+               Color="Color.Secondary"
+               EndIcon="@Icons.Material.Rounded.AddCircleOutline"
+               Href="/categorias/adicionar">
+        Nova Categoria
+    </MudButton>
+</div>
+
+<MudDataGrid Class="mt-4"
+             Items="@Categories"
+             Filterable="true"
+             RowClick="@RowClickCallback">
+    <Columns>
+        <PropertyColumn Property="cat => cat.Id" Title="#"/>
+        <PropertyColumn Property="cat => cat.Title" Title="Categoria"/>
+        <TemplateColumn Class="d-flex justify-end">
+            <CellTemplate>
+                <MudIconButton Icon="@Icons.Material.Rounded.Delete"
+                               Color="Color.Error"
+                               OnClick="() => OnDeleteButtonAsync(context.Item.Id, context.Item.Title)"/>
+                <MudIconButton Icon="@Icons.Material.Rounded.Edit"
+                               Color="Color.Default"
+                               Href="@($"/categorias/editar/{context.Item.Id}")" />
+            </CellTemplate>
+        </TemplateColumn>
+    </Columns>
+</MudDataGrid>

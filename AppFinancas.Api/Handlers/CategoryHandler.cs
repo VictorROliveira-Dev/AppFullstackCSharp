@@ -11,6 +11,7 @@ public class CategoryHandler(AppDbContext context) : ICategoryHandler
 {
     public async Task<Response<Category?>> CreateAsync(CreateCategoryRequest request)
     {
+        await Task.Delay(3000);
         var category = new Category
         {
             UserId = request.UserId,
@@ -95,6 +96,7 @@ public class CategoryHandler(AppDbContext context) : ICategoryHandler
 
     public async Task<Response<Category?>> UpdateAsync(UpdateCategoryRequest request)
     {
+        await Task.Delay(3000);
         var category = await context.Categories.FirstOrDefaultAsync(cat => cat.Id == request.Id && cat.UserId == request.UserId);
 
         if (category == null)

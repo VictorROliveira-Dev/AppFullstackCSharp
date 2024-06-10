@@ -3,19 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppFinancas.Api", "AppFinancas.Api\AppFinancas.Api.csproj", "{D6779A21-A4DB-4A72-A8DC-7B43A05E9730}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppFinancas.Api", "AppFinancas.Api\AppFinancas.Api.csproj", "{D6779A21-A4DB-4A72-A8DC-7B43A05E9730}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppFinancas.Web", "AppFinancas.Web\AppFinancas.Web.csproj", "{7156953E-4D8B-42F6-94D1-4D9F75C94395}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppFinancas.Web", "AppFinancas.Web\AppFinancas.Web.csproj", "{7156953E-4D8B-42F6-94D1-4D9F75C94395}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppFinancas.Shared", "AppFinancas.Shared\AppFinancas.Shared.csproj", "{B57FA6DB-15F2-4EF8-B5CD-9193A952147F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppFinancas.Shared", "AppFinancas.Shared\AppFinancas.Shared.csproj", "{B57FA6DB-15F2-4EF8-B5CD-9193A952147F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{D6779A21-A4DB-4A72-A8DC-7B43A05E9730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -30,5 +27,11 @@ Global
 		{B57FA6DB-15F2-4EF8-B5CD-9193A952147F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B57FA6DB-15F2-4EF8-B5CD-9193A952147F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B57FA6DB-15F2-4EF8-B5CD-9193A952147F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FDE2D81-07EB-4991-9F26-6A20B8715F53}
 	EndGlobalSection
 EndGlobal

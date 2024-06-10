@@ -9,10 +9,6 @@
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\victo\\source\\repos\\AppFinancas\\AppFinancas.Web\\obj\\Debug\\net8.0\\scopedcss\\bundle\\AppFinancas.Web.styles.css",
-      "PackagePath": "staticwebassets\\AppFinancas.Web.styles.css"
-    },
-    {
       "Id": "C:\\Users\\victo\\source\\repos\\AppFinancas\\AppFinancas.Web\\obj\\Debug\\net8.0\\service-worker-assets.js",
       "PackagePath": "staticwebassets\\service-worker-assets.js"
     },
@@ -23,14 +19,6 @@
     {
       "Id": "C:\\Users\\victo\\source\\repos\\AppFinancas\\AppFinancas.Web\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
-    },
-    {
-      "Id": "C:\\Users\\victo\\source\\repos\\AppFinancas\\AppFinancas.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
-      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
-    },
-    {
-      "Id": "C:\\Users\\victo\\source\\repos\\AppFinancas\\AppFinancas.Web\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
-      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
       "Id": "C:\\Users\\victo\\source\\repos\\AppFinancas\\AppFinancas.Web\\wwwroot\\favicon.png",
@@ -51,10 +39,6 @@
     {
       "Id": "C:\\Users\\victo\\source\\repos\\AppFinancas\\AppFinancas.Web\\wwwroot\\manifest.webmanifest",
       "PackagePath": "staticwebassets\\manifest.webmanifest"
-    },
-    {
-      "Id": "C:\\Users\\victo\\source\\repos\\AppFinancas\\AppFinancas.Web\\wwwroot\\sample-data\\weather.json",
-      "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.AppFinancas.Web.Microsoft.AspNetCore.StaticWebAssets.props",

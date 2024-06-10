@@ -1,0 +1,35 @@
+﻿@inherits LayoutComponentBase
+<!--Esse arquivo é a raiz, todos os outros derivam dele.-->
+<MudThemeProvider IsDarkMode="true" Theme="MyCustomTheme" />
+<MudDialogProvider />
+<MudSnackbarProvider />
+
+<MudLayout>
+    <MudAppBar>
+        WebFinances
+    </MudAppBar>
+    <MudMainContent>
+        <MudContainer>
+            @Body
+        </MudContainer>
+    </MudMainContent>
+</MudLayout>
+
+@code {
+    MudTheme MyCustomTheme = new MudTheme()
+        {
+            Typography = new Typography()
+            {
+                H4 = new H4()
+                {
+                    FontFamily = new[] { "Jost", "sans-serif" },
+                    FontWeight = 600,
+                },
+                H6 = new H6()
+                {
+                    FontFamily = new[] { "Jost", "sans-serif" },
+                    FontWeight = 400,
+                }
+            }
+        };
+}
